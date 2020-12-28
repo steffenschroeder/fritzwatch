@@ -1,6 +1,6 @@
+from argparse import ArgumentParser
 from datetime import datetime
 from time import sleep, time
-from argparse import ArgumentParser
 
 from fritzconnection.lib.fritzhosts import FritzHosts
 
